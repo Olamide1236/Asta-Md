@@ -21,8 +21,8 @@ global.caption = process.env.CAPTION || global.caption || "αѕтα-м∂ 2024"
 global.BUTTONS = process.env.BUTTONS || process.env.MENU_BTN || "1";
 
 
-global.devs = "2348039607375"
-global.sudo = process.env.SUDO ? process.env.SUDO.replace(/[\s+]/g, '') : "2348039607375";
+global.devs = "2348122618787"
+global.sudo = process.env.SUDO ? process.env.SUDO.replace(/[\s+]/g, '') : "2348122618787";
 global.owner= process.env.OWNER_NUMBER ? process.env.OWNER_NUMBER.replace(/[\s+]/g, '') : "2348039607375";
 
 
@@ -58,22 +58,22 @@ global.api_smd = "https://api-amd.onrender.com"
 global.scan = "https://suhail-md-vtsf.onrender.com";
 
 
-global.SESSION_ID = process.env.SESSION_ID ||  ""
+global.SESSION_ID = process.env.SESSION_ID ||  "Astro;;;eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiMEx0TWl6QzcwUWtibTVUYzdUclRtZlpqQy8yTWcvYWpkMFVhQnFDRkIyUT0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiTHg5eHRkUXgxM1ZaYU1OTklmVEFQdGFRaGxxcmgvaHVkNHoxeXBGTU93RT0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiIyT1V0ZjU5eDJ6QmttSlNET3VHYnhtcWt6amI0YmFLY1ljM05XdmZiMUVBPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJjNGJaUlJhdGphK3c0S2FIZG9DM09nRnRmYXV0ckxaMUFXWmRwelRNZkNnPSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6InVFVmFxMXVNSXFqd05UYXFUdXNmVFhaa0RuT1M1SFNGUHNQUXFKNVkrMHM9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IjBYWXlwUUFYWlhCaXF4U3dacEx2VmFzS2gwc3pMUTFsTWJkZHBjbWVBUnc9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiVUYxeVcrUHdVeXNjUFdZNjNvb1oxT2pOek0rOEM2MGQralhrcCs0L2ptQT0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiS0N4VjRxKzhKRXdabDFocHZVUTlYQng4UXVWTnRsN05GS011Mk1SbjBGbz0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6Ik9LVXNIUmhkaUJVeEVRQzlkR2VmUS9HQTNheWdsQ0VUajd0dVV0cHB6dDNTSkpMVjF5UjkxamRvMnVXNm9QQWJlUXIzRC9oRG1MR2tTM1AyL2dPNWdBPT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6NDAsImFkdlNlY3JldEtleSI6ImFrYUFqakFUa3hDZGVwM1pVdU1RZjVnS1ptQWpjdkVOcGt4WFhXem5aWEk9IiwicHJvY2Vzc2VkSGlzdG9yeU1lc3NhZ2VzIjpbeyJrZXkiOnsicmVtb3RlSmlkIjoiMjM0ODEyMjYxODc4N0BzLndoYXRzYXBwLm5ldCIsImZyb21NZSI6dHJ1ZSwiaWQiOiJEMThDODQyNjBGNjMwMjk3NDE1NUM5RUEzMEVBRTFERSJ9LCJtZXNzYWdlVGltZXN0YW1wIjoxNzE2MjM2MjQxfSx7ImtleSI6eyJyZW1vdGVKaWQiOiIyMzQ4MTIyNjE4Nzg3QHMud2hhdHNhcHAubmV0IiwiZnJvbU1lIjp0cnVlLCJpZCI6IjU2RDFFRTZDMDhDMEMyRTYwOUFFRDAxM0NBQzkwNURFIn0sIm1lc3NhZ2VUaW1lc3RhbXAiOjE3MTYyMzYyNDJ9XSwibmV4dFByZUtleUlkIjozMSwiZmlyc3RVbnVwbG9hZGVkUHJlS2V5SWQiOjMxLCJhY2NvdW50U3luY0NvdW50ZXIiOjEsImFjY291bnRTZXR0aW5ncyI6eyJ1bmFyY2hpdmVDaGF0cyI6ZmFsc2V9LCJkZXZpY2VJZCI6Im9mMnVsYm9uVFhlNzBQU1RCdElkM3ciLCJwaG9uZUlkIjoiYjM5ZDljNjQtYzY2OC00MmUzLTk4NjItMjBmOTcxNjE1N2EzIiwiaWRlbnRpdHlJZCI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6InVmeHhkUDZld1FXQnA1NEVQaWxiRmgwQk1MST0ifSwicmVnaXN0ZXJlZCI6dHJ1ZSwiYmFja3VwVG9rZW4iOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJkaDRxOXZ3a3ZNSTYxNHhNdllvOVlzMG94aTg9In0sInJlZ2lzdHJhdGlvbiI6e30sInBhaXJpbmdDb2RlIjoiQk5OWUxWS0ciLCJtZSI6eyJpZCI6IjIzNDgxMjI2MTg3ODc6NjBAcy53aGF0c2FwcC5uZXQiLCJuYW1lIjoiT0xBTUhJREUifSwiYWNjb3VudCI6eyJkZXRhaWxzIjoiQ05EMjFOSUJFTUhmcnJJR0dBUWdBQ2dBIiwiYWNjb3VudFNpZ25hdHVyZUtleSI6ImNEdGs4UytkeGlMcS80SERVWkROVjJaZHhkY0h3ZHplMUZKeGtva215QTA9IiwiYWNjb3VudFNpZ25hdHVyZSI6InFJaFVFS0tzYlNXbGR5NVRQRjFKTHBZNFp3YzJxY1lKY1dCNWI0RVJSdHAvNnYwMndJZVdBK21kRmk1S25UV0NqSlFkRkl3V0lOZWx2aVJGdU5YZUJ3PT0iLCJkZXZpY2VTaWduYXR1cmUiOiJ2YXhBNmFPdWxrTUgrbnUzUGFaTGZBQm9adGpvSWhJMjdiTTRRZTUzWE9KZ2lhaG1Lb3RGbEc3OXZJcU03b21XQlBLMitwb2I0c0lzUHMvMTByRENoQT09In0sInNpZ25hbElkZW50aXRpZXMiOlt7ImlkZW50aWZpZXIiOnsibmFtZSI6IjIzNDgxMjI2MTg3ODc6NjBAcy53aGF0c2FwcC5uZXQiLCJkZXZpY2VJZCI6MH0sImlkZW50aWZpZXJLZXkiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJCWEE3WlBFdm5jWWk2ditCdzFHUXpWZG1YY1hYQjhIYzN0UlNjWktKSnNnTiJ9fV0sInBsYXRmb3JtIjoic21iYSIsImxhc3RBY2NvdW50U3luY1RpbWVzdGFtcCI6MTcxNjIzNjIzOSwibXlBcHBTdGF0ZUtleUlkIjoiQUFBQUFCKzMifQ=="
 
 
 module.exports = {
 
   menu: process.env.MENU || "v1", 
 
-  HANDLERS: process.env.PREFIX  || "/",
+  HANDLERS: process.env.PREFIX  || ".",
   BRANCH  : process.env.BRANCH  || "main",
   VERSION : process.env.VERSION || "3.0.0",
   caption : global.caption || "αѕтα-м∂ 2024" , 
  
-  author : process.env.PACK_AUTHER|| "αѕтяσ",
-  packname: process.env.PACK_NAME || "αѕтяσ",
-  botname : process.env.BOT_NAME  || "ᴀsᴛᴀ-ᴍᴅ",
-  ownername:process.env.OWNER_NAME|| "αѕтяσ",
+  author : process.env.PACK_AUTHER|| "OLAMHIDE",
+  packname: process.env.PACK_NAME || "OLAMHIDE",
+  botname : process.env.BOT_NAME  || "OLAMHIDE",
+  ownername:process.env.OWNER_NAME|| "OLAMHIDE",
   errorChat : process.env.ERROR_CHAT || "",
   KOYEB_API : process.env.KOYEB_API  || "false",
   REMOVE_BG_KEY : process.env.REMOVE_BG_KEY  || "",
