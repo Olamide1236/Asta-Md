@@ -1,7 +1,7 @@
 {
-   "name": "asta-md",
-   "version": "3.0.0",
-   "description": "Simple Wa Bot",
+   "name": "asta-md@3.5.0",
+   "version": "3.5.0",
+   "description": "Simple WhatsApp Bot",
    "main": "index.js",
    "type": "commonjs",
    "scripts": {
@@ -14,7 +14,7 @@
      "postinstall": "npx puppeteer@latest install --y"
    },
    "author": "Astropeda",
-   "license": "Apache-2.0",
+   "license": "GPL-2.0 license",
    "dependencies": {
      "@adiwajshing/keyed-db": "^0.2.4",
      "@hapi/boom": "^9.1.4",
